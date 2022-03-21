@@ -1,0 +1,27 @@
+{
+	"name": "chris.db",
+	"version": "3.0.0",
+	"description": "A small and fast package for json and mongodb databases.",
+	"main": "index.js",
+	"repository": {"type": "git", "url": "https://github.com/chris8889/chris.db"},
+	"keywords": [
+		"json",
+		"jsondb",
+		"mongo",
+		"mongodb",
+		"database",
+		"chris.db"
+	],
+	"author": "chris8889",
+	"license": "MIT",
+	"dependencies": {
+		"graceful-fs": "^4.2.6",
+		"lodash.get": "^4.4.2",
+		"lodash.has": "^4.5.2",
+		"lodash.set": "^4.3.2",
+		"lodash.unset": "^4.5.2",
+		"mongoose": "^5.12.9",
+		"parent-module": "^2.0.0",
+		"path": "^0.12.7"
+	}
+}
