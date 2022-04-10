@@ -1,6 +1,6 @@
 {
 	"name": "chris.db",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "A small and fast package for json and mongodb databases.",
 	"main": "index.js",
 	"repository": {"type": "git", "url": "https://github.com/chris8889/chris.db"},
